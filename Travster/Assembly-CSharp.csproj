@@ -59,6 +59,7 @@
      <Compile Include="Assets\Scripts\bonusRound.cs" />
      <Compile Include="Assets\Scripts\clickBackground.cs" />
      <Compile Include="Assets\Scripts\inputController.cs" />
+     <Compile Include="Assets\Scripts\loginController.cs" />
      <Compile Include="Assets\Scripts\trackingClicks.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
