@@ -1,0 +1,57 @@
+Initialize engine version: 5.5.1f1 (88d00a7498cd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 820M     (ID=0x1140)
+    Vendor:   NVIDIA
+    VRAM:     1996 MB
+    Driver:   20.19.15.4549
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Travster Unity\Unity-Project\exe\Travster_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Travster Unity\Unity-Project\exe\Travster_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Travster Unity\Unity-Project\exe\Travster_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Travster Unity\Unity-Project\exe\Travster_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Travster Unity\Unity-Project\exe\Travster_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Travster Unity\Unity-Project\exe\Travster_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Travster Unity\Unity-Project\exe\Travster_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Travster Unity\Unity-Project\exe\Travster_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Travster Unity\Unity-Project\exe\Travster_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading D:\Travster Unity\Unity-Project\exe\Travster_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: D:\Travster Unity\Unity-Project\exe\Travster_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading D:\Travster Unity\Unity-Project\exe\Travster_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: D:\Travster Unity\Unity-Project\exe\Travster_Data\Managed\Mono.Data.Sqlite.dll (this message is harmless)
+Loading D:\Travster Unity\Unity-Project\exe\Travster_Data\Managed\Mono.Data.Sqlite.dll into Unity Child Domain
+Platform assembly: D:\Travster Unity\Unity-Project\exe\Travster_Data\Managed\System.Data.dll (this message is harmless)
+Loading D:\Travster Unity\Unity-Project\exe\Travster_Data\Managed\System.Data.dll into Unity Child Domain
+- Completed reload, in  0.042 seconds
+Platform assembly: D:\Travster Unity\Unity-Project\exe\Travster_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Travster Unity\Unity-Project\exe\Travster_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.154395 ms
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 8.036469 ms
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 356.
+Total: 0.338161 ms (FindLiveObjects: 0.039974 ms CreateObjectMapping: 0.020527 ms MarkObjects: 0.256592 ms  DeleteObjects: 0.015665 ms)
+
+Platform assembly: D:\Travster Unity\Unity-Project\exe\Travster_Data\Managed\System.Transactions.dll (this message is harmless)
+Platform assembly: D:\Travster Unity\Unity-Project\exe\Travster_Data\Managed\System.Xml.dll (this message is harmless)
+SqliteException: SQLite error
+no such table: PLACE
+  at Mono.Data.Sqlite.SQLite3.Prepare (Mono.Data.Sqlite.SqliteConnection cnn, System.String strSql, Mono.Data.Sqlite.SqliteStatement previous, UInt32 timeoutMS, System.String& strRemain) [0x00000] in <filename unknown>:0 
+  at Mono.Data.Sqlite.SqliteCommand.BuildNextCommand () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.066682 ms
+
+Unloading 30 unused Assets to reduce memory usage. Loaded Objects now: 458.
+Total: 0.487255 ms (FindLiveObjects: 0.057800 ms CreateObjectMapping: 0.022688 ms MarkObjects: 0.379756 ms  DeleteObjects: 0.026469 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1c0 -> priority: 1 
